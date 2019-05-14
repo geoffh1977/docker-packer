@@ -1,0 +1,16 @@
+---
+# Docker User
+dockerUser: geoffh1977
+dockerUserEmail: geoffh1977@gmail.com
+license: gnu-gpl-v3.0
+
+# Source Build Variables
+buildImageName: alpine
+buildImageVersion: "3"
+
+# Final Image Variables
+finalImageName: packer
+finalImageVersion: 1.4.0
+
+# Application Variables
+appName: Hashicorp Packer
